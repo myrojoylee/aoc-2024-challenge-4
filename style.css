@@ -10,15 +10,15 @@ body {
     display: flex;
     justify-content: center;
     background-color: black;
-    margin: 2em;
 }
 
 header {
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 100%;
+    /* width: 1601px; */
     height: 100vh;
+    padding: 87px;
 }
 
 h1 {
